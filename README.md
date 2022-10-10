@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Marco</h1>
-<h3 align="center">A passionate AI/ML graduate from Italy</h3>
+<h1 align="left">Hi 👋, I'm Marco</h1>
+<h3 align="left">A passionate AI/ML graduate from Italy</h3>
 
 - 🔭 I’ve completed my master thesis working in [Machine Learning Optimization of Pose Estimation of Autonomous Underwater Vehicles](https://github.com/MarcoSchouten/master-thesis)
 - 🌱 I’m currently learning **Tensorflow**
