@@ -10,4 +10,3 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on Machine Learning Research
 - 📫 How to reach me: email is the best marco.j.schouten@gmail.com
 - ⚡ Fun fact: I grew up playing tradig card games in a small fishermen's village in northen Italy. 
--->
