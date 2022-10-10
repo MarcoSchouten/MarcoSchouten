@@ -2,7 +2,7 @@
 <h3 align="center">a Machine Learning graduate who is always looking for new challenges and keen on learning.</h3>
 
 - 🔭 I’ve completed my master thesis working in [Machine Learning Optimization of Pose Estimation of Autonomous Underwater Vehicles](https://github.com/MarcoSchouten/master-thesis)
-- 🌱 I’m currently learning **Tensorflow**
+- 🌱 I’m currently learning **Tensorflow on [Coursera](https://www.coursera.org/learn/introduction-tensorflow)**
 - 👯 I’m looking to collaborate on **Machine Learning Research**
 - 📫 How to reach me **marco.j.schouten@gmail.com**
 - 📄 Know about my experiences **[Resume](https://drive.google.com/file/d/1qwN2uLvn8yQyJV1s21MJMOqSbZc6yj3B/view?usp=sharing)**
