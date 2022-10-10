@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning **Tensorflow**
 - 👯 I’m looking to collaborate on **Machine Learning Research**
 - 📫 How to reach me **marco.j.schouten@gmail.com**
-- 📄 Know about my experiences [https://drive.google.com/file/d/1qwN2uLvn8yQyJV1s21MJMOqSbZc6yj3B/view?usp=sharing](https://drive.google.com/file/d/1qwN2uLvn8yQyJV1s21MJMOqSbZc6yj3B/view?usp=sharing)
+- 📄 Know about my experiences [resume](https://drive.google.com/file/d/1qwN2uLvn8yQyJV1s21MJMOqSbZc6yj3B/view?usp=sharing)
 - ⚡ Fun fact **I grew up playing tradig card games in a small fishermen's village in northen Italy.**
 
 <h3 align="left">Connect with me:</h3>
