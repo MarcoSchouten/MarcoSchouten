@@ -6,7 +6,7 @@
 - 👯 I’m looking to collaborate on **Machine Learning Research**
 - 📫 How to reach me **marco.j.schouten@gmail.com**
 - 📄 Know about my experiences **[Resume](https://drive.google.com/file/d/1qwN2uLvn8yQyJV1s21MJMOqSbZc6yj3B/view?usp=sharing)**
-- ⚡ Fun fact **I grew up playing tradig card games in a small fishermen's village in northen Italy.**
+- ⚡ Fun fact **I grew up playing tradig card games in a small village by the sea in Liguria (northen Italy).**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
