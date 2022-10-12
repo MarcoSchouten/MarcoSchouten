@@ -5,8 +5,8 @@
 - 👯 I’m looking to collaborate on **Machine Learning Projects**.
 - 📫 How to reach me **marco.j.schouten@gmail.com**
 - 📄 Know about my experiences **[Resume](https://drive.google.com/file/d/1pZrKxF-xSDcHyt_csY4VJDBXszBHqk9Q/view?usp=sharing)**.
-- :airplane: I'm a volounteer in the **Effective Altruism community (EA-KTH, EA-global), by participating in monthly discussions**.
-- Lifelong artist in **traditional drawing, recently picked up Clip Studio Paint**.
+- ✈️ I'm a volounteer in the **Effective Altruism community (EA-KTH, EA-global), by participating in monthly discussions**.
+- ✏️ Lifelong artist in **traditional drawing, recently picked up Clip Studio Paint**.
 - ⚡ Fun fact **I grew up playing trading card games in a small village by the sea in northern Italy**.
 
 <h3 align="left">Connect with me:</h3>
