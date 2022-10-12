@@ -1,11 +1,12 @@
 <h1 align="center">Hi 👋, I'm Marco</h1>
 
 - 🔭 I’ve completed my master's thesis in **[Machine Learning Optimization for Pose Estimation of Autonomous Underwater Vehicles](https://github.com/MarcoSchouten/master-thesis)**
-- 🌱 I’m currently improving with **Tensorflow on [Coursera](https://www.coursera.org/learn/introduction-tensorflow)**
-- 👯 I’m looking to collaborate on **Machine Learning Projects**
+- 🌱 I’m currently improving with **Tensorflow on [Coursera](https://www.coursera.org/learn/introduction-tensorflow)**.
+- 👯 I’m looking to collaborate on **Machine Learning Projects**.
 - 📫 How to reach me **marco.j.schouten@gmail.com**
-- 📄 Know about my experiences **[Resume](https://drive.google.com/file/d/1pZrKxF-xSDcHyt_csY4VJDBXszBHqk9Q/view?usp=sharing)**
-- ⚡ Fun fact **I grew up playing trading card games in a small village by the sea in northern Italy.**
+- 📄 Know about my experiences **[Resume](https://drive.google.com/file/d/1pZrKxF-xSDcHyt_csY4VJDBXszBHqk9Q/view?usp=sharing)**.
+- :airplane: I'm a volounteer in the **Effective Altruism community (EA-KTH), by participating in discussions**.
+- ⚡ Fun fact **I grew up playing trading card games in a small village by the sea in northern Italy**.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
