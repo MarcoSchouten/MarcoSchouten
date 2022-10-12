@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Marco</h1>
 
-- 🔭 I’ve completed my master's thesis in [Machine Learning Optimization for Pose Estimation of Autonomous Underwater Vehicles](https://github.com/MarcoSchouten/master-thesis)
+- 🔭 I’ve completed my master's thesis in **[Machine Learning Optimization for Pose Estimation of Autonomous Underwater Vehicles](https://github.com/MarcoSchouten/master-thesis)**
 - 🌱 I’m currently improving with **Tensorflow on [Coursera](https://www.coursera.org/learn/introduction-tensorflow)**
 - 👯 I’m looking to collaborate on **Machine Learning Projects**
 - 📫 How to reach me **marco.j.schouten@gmail.com**
