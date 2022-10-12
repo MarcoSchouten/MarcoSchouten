@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Marco</h1>
-<h3 align="center">a Machine Learning graduate who is always looking for new challenges and keen on learning.</h3>
+<h3 align="center">I have a master's degree in Machine Learning, am looking for new challenges, and am keen on learning..</h3>
 
 - 🔭 I’ve completed my master thesis in [Machine Learning Optimization for Pose Estimation of Autonomous Underwater Vehicles](https://github.com/MarcoSchouten/master-thesis)
 - 🌱 I’m currently learning **Tensorflow on [Coursera](https://www.coursera.org/learn/introduction-tensorflow)**
