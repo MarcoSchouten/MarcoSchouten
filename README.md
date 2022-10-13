@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Marco</h1>
-<h2 align="center">I love exploring new ideas in AI and hacking things up for any problems or creative projects. </h2>
+<h3 align="center">I love exploring new ideas in AI and hacking things up for any problems or creative projects. </h3>
 
 - 🔭 I’ve completed my master's thesis in **[Machine Learning Optimization for Pose Estimation of Autonomous Underwater Vehicles](https://github.com/MarcoSchouten/master-thesis)**
 - 🌱 I’m currently improving with **Tensorflow on [Coursera](https://www.coursera.org/learn/introduction-tensorflow)**.
