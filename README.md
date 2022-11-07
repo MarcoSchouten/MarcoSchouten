@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Marco</h1>
 <h3 align="center">I love exploring new ideas in AI and hacking things up for any problems or creative projects. </h3>
 
-- 🔭 I’ve completed my master's thesis in **[Machine Learning Optimization for Pose Estimation of Autonomous Underwater Vehicles](https://github.com/MarcoSchouten/master-thesis)**
+- 🔭 I’ve completed my master's thesis in **[Pose Estimation of Autonomous Underwater Vehicles](https://github.com/MarcoSchouten/master-thesis)**
 - 📫 How to reach me **marco.j.schouten@gmail.com**
 - 📄 Know about my experiences **[Resume](https://drive.google.com/file/d/1pZrKxF-xSDcHyt_csY4VJDBXszBHqk9Q/view?usp=sharing)**.
 - ✈️ I volounteered in the **Effective Altruism community (EA-KTH), by participating in monthly discussions**.
