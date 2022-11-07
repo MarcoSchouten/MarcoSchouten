@@ -5,7 +5,7 @@
 - 📫 How to reach me **marco.j.schouten@gmail.com**
 - 📄 Know about my experiences **[Resume](https://drive.google.com/file/d/1pZrKxF-xSDcHyt_csY4VJDBXszBHqk9Q/view?usp=sharing)**.
 - ✈️ I volounteered in the **Effective Altruism community (EA-KTH), by participating in monthly discussions**.
-- ✏️ Lifelong artist in **traditional drawing, recently picked up Clip Studio Paint**.
+- ✏️ Lifelong artist in **traditional drawing**.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
