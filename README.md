@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Marco</h1>
-<h3 align="center">I love exploring new ideas in AI and hacking things up for any problems or creative projects. </h3>
+<h1 align="center">Hi, I'm Marco</h1>
+<h3 align="center">My goal is to do important work, and addressing neglected problems that can be solved through the development of cutting-edge machine learning-based technologies. </h3>
 
 - 🔭 I’ve completed my master's thesis in **[Pose Estimation of Autonomous Underwater Vehicles](https://github.com/MarcoSchouten/master-thesis)**
 - 📫 How to reach me **marco.j.schouten@gmail.com**
