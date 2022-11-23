@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Marco</h1>
-### my goal is to do important work in the AI and Machine Learning Space
+<h3 align="center"> my goal is to do important work in the AI and Machine Learning Space </h3>
 
 
 - 🔭 I’ve completed my master's thesis in **[Pose Estimation of Autonomous Underwater Vehicles](https://github.com/MarcoSchouten/master-thesis)**
