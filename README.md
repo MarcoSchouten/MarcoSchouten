@@ -1,12 +1,9 @@
 <h1 align="center">Hi, I'm Marco</h1>
-<h3 align="center"> my goal is to do important work in the AI and Machine Learning Space </h3>
 
-
-- 🔭 I’ve completed my master's thesis in **[Pose Estimation of Autonomous Underwater Vehicles](https://github.com/MarcoSchouten/master-thesis)**
+- 🔭 I’ve completed my master's thesis at KTH Stockholm.
 - 📫 How to reach me **marco.j.schouten@gmail.com**
-- 📄 Know about my experiences **[Resume](https://marcoschouten.github.io/files/CV_Marco_Schouten.pdf)**.
-- ✈️ I volounteered in the **Effective Altruism community (EA-KTH), by participating in monthly discussions**.
-- ✏️ Lifelong artist in **traditional drawing**.
+- 📄 Know about my background **[Resume](https://marcoschouten.github.io/files/CV_Marco_Schouten.pdf)**.
+- ✈️ I volounteered in the **Effective Altruism community (EA-KTH)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
