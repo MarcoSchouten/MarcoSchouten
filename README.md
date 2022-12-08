@@ -1,9 +1,8 @@
 <h1 align="center">Hi, I'm Marco</h1>
 
-- 🔭 I’ve completed my master's thesis at KTH Stockholm.
+- 🔭 I’ve completed my master's degree at KTH Stockholm.
 - 📫 How to reach me **marco.j.schouten@gmail.com**
 - 📄 Know about my background **[Resume](https://marcoschouten.github.io/files/CV_Marco_Schouten.pdf)**.
-- ✈️ I volounteered to **Effective Altruism (EA-KTH)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
