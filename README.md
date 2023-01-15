@@ -2,7 +2,7 @@
 
 - 🔭 I’ve completed my master's degree at KTH Stockholm.
 - 📫 How to reach me **marco.j.schouten@gmail.com**
-- 📄 Know about my background **[Resume](https://marcoschouten.github.io/files/CV_Marco_Schouten.pdf)**.
+<!-- - 📄 Know about my background **[Resume](https://marcoschouten.github.io/files/CV_Marco_Schouten.pdf)**. -->
 
 
 
