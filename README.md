@@ -4,10 +4,6 @@
 - 📫 How to reach me **marco.j.schouten@gmail.com**
 - 📄 Know about my background **[Resume](https://marcoschouten.github.io/files/CV_Marco_Schouten.pdf)**.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/schoutenmarco" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="schoutenmarco" height="30" width="40" /></a>
-<a href="https://instagram.com/marcoschouten_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="marcoschouten_" height="30" width="40" /></a>
 
 
 <h3 align="left">Languages and Tools:</h3>
