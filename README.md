@@ -5,10 +5,7 @@
 <!-- - 📄 Know about my background **[Resume](https://marcoschouten.github.io/files/CV_Marco_Schouten.pdf)**. -->
 
 
-<a href="mailto:marco.j.schouten@gmail.com" > <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> </a>
-
-
-<a href="https://www.linkedin.com/in/schoutenmarco/">  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> </a>
+<a href="mailto:marco.j.schouten@gmail.com" > <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> </a>  <a href="https://www.linkedin.com/in/schoutenmarco/">  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> </a>
 
 
 
