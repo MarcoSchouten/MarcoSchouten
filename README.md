@@ -2,7 +2,7 @@
 
 - 🔭 I’ve completed my master's degree at KTH Stockholm.
 - :racing_car: I am currently doing research with the ai-core team at Aptiv on high-definition (HD) maps for ADAS.
-- 📫 How to reach me **marco.j.schouten@gmail.com**
+- 📫 Feel free to contact me at **marco.j.schouten@gmail.com**
 <!-- - 📄 Know about my background **[Resume](https://marcoschouten.github.io/files/CV_Marco_Schouten.pdf)**. -->
 
 
