@@ -3,7 +3,6 @@
 - 🔭 I’ve completed my master's degree at KTH Stockholm.
 - :racing_car: I am currently doing research with the ai-core team at Aptiv on high-definition (HD) maps for ADAS.
 - 📫 Feel free to contact me at **marco.j.schouten@gmail.com**
-- 📄 Know about my background **[Resume](https://drive.google.com/file/d/1FuDWJTbYTkho4u9rMvOuVec9WJc0JAz4/view?usp=sharing)**. 
 
 
 <a href="mailto:marco.j.schouten@gmail.com" > <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> </a>  <a href="https://www.linkedin.com/in/schoutenmarco/">  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> </a>
