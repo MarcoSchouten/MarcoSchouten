@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Marco</h1>
 
-- 🖥️ Currently I am a ph.d. student at DTU Compute working on computer vision.
+- 🖥️ Currently I am a ph.d. student at [DTU Compute](https://www.compute.dtu.dk/) working on computer vision.
 - :racing_car: Previously I was doing research with [Aptiv](https://www.aptiv.com/) ai-core team on deep learning segmentation for high-definition (HD) maps.
 - 📻 I completed my master thesis at [Swedish Maritime Robotic Centre](https://smarc.se/) on optimization for underwater vehicle's pose estimation based on sonar images.
 - 📫 Feel free to reach out to me via email at **marco.j.schouten@gmail.com**.
