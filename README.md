@@ -1,7 +1,6 @@
-<h1 align="center">Hi, I'm Marco</h1>
+<h1 align="center">Hi there!</h1>
 
-- 🖥️ Currently I am a ph.d. student at [DTU Compute](https://www.compute.dtu.dk/) working on computer vision.
-- :racing_car: Previously I was doing industry research with [Aptiv](https://www.aptiv.com/) ai-core team on deep learning segmentation for high-definition (HD) maps.
+- 🖥️ Currently I am a ph.d. student at [DTU Compute](https://www.compute.dtu.dk/)
 - 📫 Feel free to reach out to me via email at **marco.j.schouten@gmail.com**.
 
 <a href="https://www.linkedin.com/in/schoutenmarco/">  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> </a>
