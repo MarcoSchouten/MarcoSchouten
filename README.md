@@ -1,6 +1,11 @@
 <h1 align="center">Hi there!</h1>
 
-I am PhD student at DTU & Pioneer Centre for AI.
+<p>
+  I am a PhD student at 
+  <a href="https://www.compute.dtu.dk/">DTU</a> & 
+  <a href="https://www.aicentre.dk/">Pioneer Centre for AI</a>.
+</p>
+
 
 I work on deep learning problems, focusing on **multimodal (vision+language)** models.
 <div>
