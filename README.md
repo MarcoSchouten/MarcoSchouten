@@ -2,7 +2,7 @@
 
 <p>
   I am a PhD student at 
-  <a href="https://www.compute.dtu.dk/">DTU</a> & 
+  <a href="https://www.compute.dtu.dk/">DTU Compute</a> & 
   <a href="https://www.aicentre.dk/">Pioneer Centre for AI</a>.
 </p>
 
