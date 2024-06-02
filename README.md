@@ -1,4 +1,4 @@
-<h2 align="center">Hi 👋,</h2>
+<h2 align="left">Hi 👋,</h2>
 
 <p>
   I am a PhD student at <a href="https://www.aicentre.dk/">Pioneer Centre for AI</a>.
