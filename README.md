@@ -1,6 +1,6 @@
-<h2 align="left">Hi 👋,</h2>  <a href="https://marcoschouten.github.io/" style="text-decoration: none;">
+<h2 align="left">Hi 👋, <a href="https://marcoschouten.github.io/" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/Visit%20My%20Personal%20Webpage-222222?style=for-the-badge&logo=GitHub%20Pages&logoColor=white" alt="Visit My Personal Webpage" />
-  </a>
+  </a></h2> 
 
 
 
